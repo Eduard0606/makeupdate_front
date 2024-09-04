@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97beb1c6.css",
+    "main.js": "/static/js/main.40108e6e.js",
+    "static/media/Фон.svg": "/static/media/Фон.e867d9dc45bde0f62523.svg",
+    "static/media/Group 83.svg": "/static/media/Group 83.cfd25c2ddd8de3e145e5651ba310c320.svg",
+    "static/media/Календарь.svg": "/static/media/Календарь.b287e95f0dfb7be944e6e0d87ff48ec8.svg",
+    "static/media/people.svg": "/static/media/people.cad5c02f6ea405fe4fc8c7e8867282de.svg",
+    "static/media/User_logo.svg": "/static/media/User_logo.cd978e890b70ea2c1f7c18ebd1f0d19f.svg",
+    "static/media/Group 102.svg": "/static/media/Group 102.cf938702f56b8a17a4bd61c2f9d81bfc.svg",
+    "index.html": "/index.html",
+    "static/media/Главная 2.svg": "/static/media/Главная 2.061e8b96f9f6e9896480fb5c56a31933.svg",
+    "static/media/Уроки.svg": "/static/media/Уроки.061e8b96f9f6e9896480fb5c56a31933.svg",
+    "static/media/Главная.svg": "/static/media/Главная.99c40436dae8b6010ca230dd28ef753f.svg",
+    "static/media/Russian.svg": "/static/media/Russian.f46f8b93b9d49619702c40364ca21366.svg",
+    "static/media/Местоположение.svg": "/static/media/Местоположение.17b33ac3833f833c3debbb70a847e1ec.svg",
+    "static/media/Гамбургер меню.svg": "/static/media/Гамбургер меню.532e9a790784388bce8c6e08275fba5d.svg",
+    "main.97beb1c6.css.map": "/static/css/main.97beb1c6.css.map",
+    "main.40108e6e.js.map": "/static/js/main.40108e6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97beb1c6.css",
+    "static/js/main.40108e6e.js"
+  ]
+}
